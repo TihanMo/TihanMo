@@ -1,16 +1,17 @@
-### Hi there 👋
+# Tihan Morrol
 
-<!--
-**TihanMo/TihanMo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Hi there 👋
+- 😄 My name is Tihan Morrol from Switzerland
+- 🏫 Studying IT at Kantonsschule Büelrain Winterthur (KBW), Berufsbildungsschule Winterthur (BBW), Zürcher Lehrvertriebsband ICT (ZLI)
+- 🍃 I am currently learning Full-Stack Development
+- 🌎 I am a passionate language learner
 
-Here are some ideas to get you started:
+<!-- 
+## What I like to use
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+## Technologies I've used before
+
+## Projects
+
+## Thank you for reading!
 -->
